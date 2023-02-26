@@ -1,0 +1,35 @@
+### POST
+POST https://localhost:7280/api/User/Add
+Content-Type: application/json
+
+{
+  "userId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "userName": "fff",
+  "userEmail": "fff",
+  "userFirstName": "rr",
+  "userLastName": "rrr",
+  "userFullName": "string",
+  "userPassword": "",
+  "userPhone": "string",
+  "userCreatedAt": "2023-02-19T22:40:33.722Z",
+  "userUpdatedAt": "2023-02-19T22:40:33.722Z",
+  "userDeletedAt": "2023-02-19T22:40:33.722Z"
+}
+
+### POST
+POST https://localhost:5001/api/User/Add
+Content-Type: application/json
+
+{
+  "userId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "userName": "fff",
+  "userEmail": "fff",
+  "userFirstName": "rr",
+  "userLastName": "rrr",
+  "userFullName": "string",
+  "userPassword": "",
+  "userPhone": "string",
+  "userCreatedAt": "2023-02-19T22:40:33.722Z",
+  "userUpdatedAt": "2023-02-19T22:40:33.722Z",
+  "userDeletedAt": "2023-02-19T22:40:33.722Z"
+}
