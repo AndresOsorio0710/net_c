@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/usuario/Documents/personales/MyProyects/net_c/BaseAPI/BAseAPI.Util/BaseAPI.Util.csproj": {}
+  },
+  "projects": {
+    "/Users/usuario/Documents/personales/MyProyects/net_c/BaseAPI/BaseAPI.Entities/BaseAPI.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/usuario/Documents/personales/MyProyects/net_c/BaseAPI/BaseAPI.Entities/BaseAPI.Entities.csproj",
+        "projectName": "BaseAPI.Entities",
+        "projectPath": "/Users/usuario/Documents/personales/MyProyects/net_c/BaseAPI/BaseAPI.Entities/BaseAPI.Entities.csproj",
+        "packagesPath": "/Users/usuario/.nuget/packages/",
+        "outputPath": "/Users/usuario/Documents/personales/MyProyects/net_c/BaseAPI/BaseAPI.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/usuario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/usuario/Documents/personales/MyProyects/net_c/BaseAPI/BAseAPI.Util/BaseAPI.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/usuario/Documents/personales/MyProyects/net_c/BaseAPI/BAseAPI.Util/BaseAPI.Util.csproj",
+        "projectName": "BaseAPI.Util",
+        "projectPath": "/Users/usuario/Documents/personales/MyProyects/net_c/BaseAPI/BAseAPI.Util/BaseAPI.Util.csproj",
+        "packagesPath": "/Users/usuario/.nuget/packages/",
+        "outputPath": "/Users/usuario/Documents/personales/MyProyects/net_c/BaseAPI/BAseAPI.Util/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/usuario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/usuario/Documents/personales/MyProyects/net_c/BaseAPI/BaseAPI.Entities/BaseAPI.Entities.csproj": {
+                "projectPath": "/Users/usuario/Documents/personales/MyProyects/net_c/BaseAPI/BaseAPI.Entities/BaseAPI.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0-rc.1.23419.4, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0-rc.1.23419.4, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.32.3, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0-rc.1.23419.4, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

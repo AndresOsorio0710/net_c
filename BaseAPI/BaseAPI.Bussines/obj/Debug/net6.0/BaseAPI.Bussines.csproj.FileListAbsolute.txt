@@ -1,0 +1,12 @@
+C:\Users\andre\Documents\c#\BaseAPI\BaseAPI\BaseAPI.Bussines\bin\Debug\net6.0\BaseAPI.Bussines.deps.json
+C:\Users\andre\Documents\c#\BaseAPI\BaseAPI\BaseAPI.Bussines\bin\Debug\net6.0\BaseAPI.Bussines.dll
+C:\Users\andre\Documents\c#\BaseAPI\BaseAPI\BaseAPI.Bussines\bin\Debug\net6.0\BaseAPI.Bussines.pdb
+C:\Users\andre\Documents\c#\BaseAPI\BaseAPI\BaseAPI.Bussines\obj\Debug\net6.0\BaseAPI.Bussines.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\c#\BaseAPI\BaseAPI\BaseAPI.Bussines\obj\Debug\net6.0\BaseAPI.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\c#\BaseAPI\BaseAPI\BaseAPI.Bussines\obj\Debug\net6.0\BaseAPI.Bussines.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\c#\BaseAPI\BaseAPI\BaseAPI.Bussines\obj\Debug\net6.0\BaseAPI.Bussines.AssemblyInfo.cs
+C:\Users\andre\Documents\c#\BaseAPI\BaseAPI\BaseAPI.Bussines\obj\Debug\net6.0\BaseAPI.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\c#\BaseAPI\BaseAPI\BaseAPI.Bussines\obj\Debug\net6.0\BaseAPI.Bussines.dll
+C:\Users\andre\Documents\c#\BaseAPI\BaseAPI\BaseAPI.Bussines\obj\Debug\net6.0\refint\BaseAPI.Bussines.dll
+C:\Users\andre\Documents\c#\BaseAPI\BaseAPI\BaseAPI.Bussines\obj\Debug\net6.0\BaseAPI.Bussines.pdb
+C:\Users\andre\Documents\c#\BaseAPI\BaseAPI\BaseAPI.Bussines\obj\Debug\net6.0\ref\BaseAPI.Bussines.dll

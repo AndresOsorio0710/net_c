@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{BEEA5F37-B460-4E50-AB95-C53C3DCAD2CA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BaseAPI PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BaseAPI/Program.cs">
+    <Files>
+      <File FileName="BaseAPI/Controllers/UserController/LoginController.cs" Line="26" Column="1" />
+      <File FileName="BaseAPI.Bussines/Authentication/LoginBusiness.cs" Line="30" Column="1" />
+      <File FileName="BaseAPI.Bussines.Interface/Authentication/ILoginBusiness.cs" Line="5" Column="36" />
+      <File FileName="BaseAPI/Program.cs" Line="5" Column="49" />
+      <File FileName="BaseAPI.Entities/Requests/LoginRequest.cs" Line="1" Column="1" />
+      <File FileName="BaseAPI.Bussines/Business.cs" Line="72" Column="45" />
+      <File FileName="BaseAPI.Entities/Enums/ResponceCode.cs" Line="10" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BaseAPI" expanded="True">
+            <Node name="BaseAPI" selected="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="UserController" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="BaseAPI.Business">
+              <Node name="Authentication" expanded="True" />
+            </Node>
+            <Node name="BaseAPI.Business.Interface">
+              <Node name="Authentication" expanded="True" />
+            </Node>
+            <Node name="BaseAPI.Entities">
+              <Node name="Enums" expanded="True" />
+              <Node name="Requests" expanded="True" />
+              <Node name="Responces" expanded="True" />
+              <Node name="Results" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
